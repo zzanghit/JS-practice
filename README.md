@@ -1,1 +1,1 @@
-# JS-practice / gugudan
+# JS-practice
